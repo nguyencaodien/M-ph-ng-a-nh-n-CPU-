@@ -1,0 +1,28 @@
+C:\Users\ADMIN\source\repos\CPU\CPU\bin\Debug\net8.0\CPU.exe
+C:\Users\ADMIN\source\repos\CPU\CPU\bin\Debug\net8.0\CPU.deps.json
+C:\Users\ADMIN\source\repos\CPU\CPU\bin\Debug\net8.0\CPU.runtimeconfig.json
+C:\Users\ADMIN\source\repos\CPU\CPU\bin\Debug\net8.0\CPU.dll
+C:\Users\ADMIN\source\repos\CPU\CPU\bin\Debug\net8.0\CPU.pdb
+C:\Users\ADMIN\source\repos\CPU\CPU\obj\Debug\net8.0\CPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\CPU\CPU\obj\Debug\net8.0\CPU.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CPU\CPU\obj\Debug\net8.0\CPU.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CPU\CPU\obj\Debug\net8.0\CPU.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CPU\CPU\obj\Debug\net8.0\CPU.dll
+C:\Users\ADMIN\source\repos\CPU\CPU\obj\Debug\net8.0\refint\CPU.dll
+C:\Users\ADMIN\source\repos\CPU\CPU\obj\Debug\net8.0\CPU.pdb
+C:\Users\ADMIN\source\repos\CPU\CPU\obj\Debug\net8.0\CPU.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\CPU\CPU\obj\Debug\net8.0\ref\CPU.dll
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\bin\Debug\net8.0\CPU.exe
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\bin\Debug\net8.0\CPU.deps.json
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\bin\Debug\net8.0\CPU.runtimeconfig.json
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\bin\Debug\net8.0\CPU.dll
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\bin\Debug\net8.0\CPU.pdb
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\obj\Debug\net8.0\CPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\obj\Debug\net8.0\CPU.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\obj\Debug\net8.0\CPU.AssemblyInfo.cs
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\obj\Debug\net8.0\CPU.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\obj\Debug\net8.0\CPU.dll
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\obj\Debug\net8.0\refint\CPU.dll
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\obj\Debug\net8.0\CPU.pdb
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\obj\Debug\net8.0\CPU.genruntimeconfig.cache
+C:\Users\User\Documents\Zalo Received Files\CPU\CPU\CPU\obj\Debug\net8.0\ref\CPU.dll
